@@ -102,3 +102,10 @@ ros2 topic echo /ultrasonic_echo
 - [Arduino Ultrasonic Sensor Tutorials](https://www.arduino.cc/en/Tutorial/UltrasonicSensor)  
 - [Serial Communication Arduino ↔ Raspberry Pi](https://www.raspberrypi.org/documentation/usage/gpio/)
 
+---
+
+## 📧 Contact
+**Manar Daghsni**  
+📧 manardaghsni@gmail.com  
+🔗 https://linkedin.com/in/daghsni-manar  
+
