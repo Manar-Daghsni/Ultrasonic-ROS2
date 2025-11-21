@@ -28,6 +28,11 @@ ultrasonic/
 │   ├── src/                  # ROS2 nodes
 │   └── test/                 # Unit tests
 ├── UltrasonicSensor.h        # Arduino header for sensor communication
+├──docs/
+│   ├── nodes.md/            # Explain what each ROS2 node does 
+│   ├── topics.md/           # List all topics with message types and descriptions        
+│   └── parameters.md/       # Explain configurable parameters for nodes  
+│   └── launch.md/           # Explain how to run ROS2 launch files
 ├── README.md                 # This file
 
 ```
